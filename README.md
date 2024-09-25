@@ -1,5 +1,5 @@
 # Memory-Management-Game
- <h1><a href="https://raw.githack.com/lata1912/Memory-Matching-Game/main/index.html">Click here to PLAY THE GAME</a> <h1>
+ <a href="https://raw.githack.com/lata1912/Memory-Matching-Game/main/index.html">Click here to PLAY THE GAME</a> 
 
 
 This project is made using HTML,CSS & JavaScript.<br>
